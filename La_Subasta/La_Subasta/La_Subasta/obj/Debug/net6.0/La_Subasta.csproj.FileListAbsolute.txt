@@ -1,0 +1,56 @@
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfoInputs.cache
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfo.cs
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.csproj.CoreCompileInputs.cache
+C:\Users\DanielaArriazu\source\repos\La_Subasta\bin\Debug\net6.0\La_Subasta.exe
+C:\Users\DanielaArriazu\source\repos\La_Subasta\bin\Debug\net6.0\La_Subasta.deps.json
+C:\Users\DanielaArriazu\source\repos\La_Subasta\bin\Debug\net6.0\La_Subasta.runtimeconfig.json
+C:\Users\DanielaArriazu\source\repos\La_Subasta\bin\Debug\net6.0\La_Subasta.dll
+C:\Users\DanielaArriazu\source\repos\La_Subasta\bin\Debug\net6.0\La_Subasta.pdb
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.dll
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\refint\La_Subasta.dll
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.pdb
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\La_Subasta.genruntimeconfig.cache
+C:\Users\DanielaArriazu\source\repos\La_Subasta\obj\Debug\net6.0\ref\La_Subasta.dll
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.exe
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.deps.json
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.runtimeconfig.json
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.dll
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.pdb
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfoInputs.cache
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfo.cs
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.csproj.CoreCompileInputs.cache
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.dll
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\refint\La_Subasta.dll
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.pdb
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.genruntimeconfig.cache
+C:\Users\tatil\Downloads\La_Subasta\La_Subasta\obj\Debug\net6.0\ref\La_Subasta.dll
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfoInputs.cache
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfo.cs
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.csproj.CoreCompileInputs.cache
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.exe
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.deps.json
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.runtimeconfig.json
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.dll
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.pdb
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.dll
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\refint\La_Subasta.dll
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.pdb
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.genruntimeconfig.cache
+E:\Descarga\Telegram Desktop\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\ref\La_Subasta.dll
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.exe
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.deps.json
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.runtimeconfig.json
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.dll
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\bin\Debug\net6.0\La_Subasta.pdb
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfoInputs.cache
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.AssemblyInfo.cs
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.csproj.CoreCompileInputs.cache
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.dll
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\refint\La_Subasta.dll
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.pdb
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\La_Subasta.genruntimeconfig.cache
+C:\Users\teaextfdo\Downloads\La_Subasta (1)\La_Subasta\La_Subasta\La_Subasta\obj\Debug\net6.0\ref\La_Subasta.dll
